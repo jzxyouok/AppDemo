@@ -1,0 +1,13 @@
+*.iml
+/gradlew
+/gradlew.bat
+/local.properties
+/.gradle/
+/.idea/
+/build/
+/gradle/
+/common/build/
+/oschina/build/
+/qunar/build/
+/tmall/build/
+/newsreader/build/
