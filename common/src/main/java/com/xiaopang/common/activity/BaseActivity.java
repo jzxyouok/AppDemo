@@ -3,9 +3,11 @@ package com.xiaopang.common.activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.xiaopang.common.app.BaseConstants;
+
 import butterknife.ButterKnife;
 
-public abstract class BaseActivity extends AppCompatActivity {
+public abstract class BaseActivity extends AppCompatActivity implements BaseConstants{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

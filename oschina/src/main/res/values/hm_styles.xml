@@ -1,0 +1,17 @@
+<resources>
+    <style name="home_tab_item">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/hm_selector_default_color</item>
+    </style>
+    <style name="popup_quick_anim">
+        <item name="@android:windowEnterAnimation">@anim/hm_popup_quick_enter</item>
+        <item name="@android:windowExitAnimation">@anim/hm_popup_quick_exit</item>
+    </style>
+</resources>

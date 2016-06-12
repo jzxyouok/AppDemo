@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">#FFFFFF</item>
+    </style>
+
+    <style name="AppBaseTheme_Light" parent="AppBaseTheme">
+        <item name="theme_bg">#FFFFFF</item>
+        <item name="theme_text_color">#000000</item>
+    </style>
+
+    <style name="AppBaseTheme_Night" parent="AppBaseTheme">
+        <item name="theme_bg">#000000</item>
+        <item name="theme_text_color">#FFFFFF</item>
+    </style>
+
+</resources>
