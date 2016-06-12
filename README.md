@@ -3,4 +3,4 @@
 ## oschina - 开源中国
 ## qunar - 去哪儿
 ## tmall - 天猫
-## newsreader - 网页新闻
+## newsreader - 网易新闻
